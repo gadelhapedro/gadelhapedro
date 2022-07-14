@@ -1,5 +1,5 @@
 # 👋 Hi There, I’m Pedro Henrique
-- 👀 Student at Universidade Federal do Ceará (UFC) - Computing engineering.
+- 📘 Student at Universidade Federal do Ceará (UFC) - Computing engineering.
 - ☕ I’m currently learning Java and SQL
 
 <!---
